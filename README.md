@@ -16,20 +16,10 @@ To analyze customer purchase behavior and segment customers into meaningful clus
 
 ## 📊 Key Features
 - Data cleaning and preprocessing of online retail data.
-- Feature engineering to extract relevant features like RFM (Recency, Frequency, Monetary).
-- Elbow Method and Silhouette Score to determine optimal number of clusters.
+- Feature engineering to extract relevant features.
 - Visualization of clusters to interpret segment behavior.
 - Business insight generation for marketing and sales optimization.
 
-## 📁 Folder Structure
-```
-Mentor_led_internship/
-├── Customer_Segmentation_KMeans.ipynb
-├── OnlineRetail.csv
-├── README.md
-└── plots/
-    ├── elbow_curve.png
-    └── cluster_visualizations.png
 ```
 
 ## 🏆 Internship Certificate
@@ -41,5 +31,5 @@ Mentor_led_internship/
 
 ## 📬 Contact
 **Atharv Singh**  
-📧 atharv.email@example.com  
-🔗 [GitHub](https://github.com/Atharv322) | [LinkedIn](https://www.linkedin.com/in/your-link)
+📧 atharvsingh767@gmail.com  
+🔗 [GitHub](https://github.com/Atharv322) | [LinkedIn](https://www.linkedin.com/in/atharv-singh-888408256/)
